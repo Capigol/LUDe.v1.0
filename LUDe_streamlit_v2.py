@@ -24,7 +24,7 @@ import os
 import time
 
 import sys
-from openbabel import openbabel
+import openbabel
 from molvs import Standardizer
 
 start = time.time()

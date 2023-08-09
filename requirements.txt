@@ -1,4 +1,5 @@
 streamlit
 molvs
 rdkit-pypi
+swig
 openbabel
